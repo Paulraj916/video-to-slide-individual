@@ -4,8 +4,7 @@ import cv2
 import time
 from pptx1 import pptx1
 
-pptx1 = pptx1("image")D:\v2s_actual_code_2\pdf2s.py
-
+pptx1 = pptx1("image")
 class img2s:
     def __init__(self,make):
         self.make = make
