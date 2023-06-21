@@ -18,7 +18,7 @@ The slide output is stored in the output folder with the name of the video input
 
 The video needs to be in ideo folder and its paths to be specifed for the place where it used
 
-![Demo of this input](https://drive.google.com/file/d/19H0C7uYYnGT5Gew-Zx1ksYlY0N1zJYBP/view?usp=sharing)
+![Demo of this input](https://github.com/Paulraj916/video_to_slide_individual/blob/main/images/001_0.14.png)
 
 ![Demo of this output](https://drive.google.com/file/d/1IJg3pXKulDVTLZ0AkrEzIn4X-CUAhODQ/view?usp=sharing)
 
